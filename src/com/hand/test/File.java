@@ -4,9 +4,9 @@ public class File {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("µÚÒ»´ÎĞŞ¸Ä");
-		System.out.println("µÚ¶ş´ÎĞŞ¸Ä£¬ ¿ª·¢Õß¶ş");
-		System.out.println("µÚ¶ş´ÎĞŞ¸Ä");
+		System.out.println("ç¬¬ä¸€æ¬¡ä¿®æ”¹");
+		System.out.println("ç¬¬äºŒæ¬¡ä¿®æ”¹ å¼€å‘è€…2");
+		System.out.println("ç¬¬äºŒæ¬¡ä¿®æ”¹");
 	}
 
 }
